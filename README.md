@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dyx1994
 - 👀 I’m interested in basketball, football, hiking, reading, traveling, etc.
-- 🌱 I’m currently learning python. 
+- 🌱 I’m currently learning C++ and python. 
 - 📫 How to reach me duanyongxu1994@gmail.com
 
 <!---
